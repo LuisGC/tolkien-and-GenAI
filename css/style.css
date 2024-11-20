@@ -1,5 +1,4 @@
 .prompt{
-	font-family: "Open Sans";
 	font-size: medium;
 	padding: 10px;
 	line-height: 20pt;
@@ -9,14 +8,27 @@
 	bottom:0px;
 }
 
-.rounded_icon {
-	height:42px;
-	vertical-align: middle;
-	padding: 5px 0px;
+.shadow {
+	position: absolute;
+    width: 40%;
+    left: 0;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 20px;
+    font-size: 20px;
 }
 
-img {
-	max-width: 100%;
+.caption{
+	font-size: large;
+	padding: 10px;
+	line-height: 20pt;
+	text-align: center;
+	letter-spacing: normal;
+	position: absolute;
+	bottom:0;
+	right:0;
+	left:0;
 }
 
 .img_back {
@@ -38,7 +50,7 @@ img {
 	left: 0;
 	right: 0;
 	bottom:0;
-	height: 450px;
+	height: 550px;
 	padding-bottom: 40px;
 }
 
