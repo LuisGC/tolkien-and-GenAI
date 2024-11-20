@@ -9,10 +9,19 @@
 	bottom:0px;
 }
 
+.left {
+    left: 40px;
+	right: auto;
+}
+
+.right {
+	left: auto;
+    right: 40px
+}
+
 .shadow {
 	position: absolute;
     width: 40%;
-    left: 0;
     box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2);
     background-color: rgba(0, 0, 0, 0.9);
     color: #fff;
