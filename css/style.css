@@ -1,4 +1,4 @@
-.prompt{
+.prompt {
 	font-size: medium;
 	font-style: italic;
 	padding: 10px;
@@ -26,10 +26,18 @@
     background-color: rgba(0, 0, 0, 0.9);
     color: #fff;
     padding: 20px;
-    font-size: 20px;
+    font-size: larger;
 }
 
-.caption{
+.small-caption {
+	position: absolute;
+    width: 40%;
+    padding: 10px;
+    font-size: 30px;
+	margin: 0px !important
+}
+
+.caption {
 	font-size: large;
 	font-style: italic;
 	padding: 10px;
@@ -37,9 +45,9 @@
 	text-align: center;
 	letter-spacing: normal;
 	position: absolute;
-	bottom:0;
-	right:0;
-	left:0;
+	bottom: 0;
+	right: 0;
+	left: 0;
 }
 
 .img_back {
@@ -65,11 +73,11 @@
 	padding-bottom: 40px;
 }
 
-.maxed_height{
+.maxed_height {
 	max-height: 80%;
 }
 
-.fixed_height{
+.fixed_height {
 	height: 300px !important;
 	width: auto;
 }
