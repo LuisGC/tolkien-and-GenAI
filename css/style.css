@@ -49,6 +49,11 @@
 	left: 0;
 }
 
+
+img.pair {
+	width: 45%;
+}
+
 .img_back {
 	display: block;
 	margin-left:auto !important;
