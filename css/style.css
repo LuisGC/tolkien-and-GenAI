@@ -1,14 +1,3 @@
-.prompt {
-	font-size: medium;
-	font-style: italic;
-	padding: 10px;
-	line-height: 20pt;
-	letter-spacing: normal;
-	position: absolute;
-	left: 0px;
-	bottom:0px;
-}
-
 .left {
     left: 40px;
 	right: auto;
@@ -48,7 +37,6 @@
 	right: 0;
 	left: 0;
 }
-
 
 img.pair {
 	width: 45%;
