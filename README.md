@@ -3,7 +3,7 @@ J.R.R. Tolkien & GenAI
 
 Source files for my presentation (in Spanish) about **Tolkien and GenAI** by [Luis García Castro](https://github.com/LuisGC)
 
-View in GitHub-Pages: [Tolkien and GenAI](https://luisgc.github.com/tolkien-and-GenAI)
+View in GitHub-Pages: [Tolkien and GenAI](http://luiyo.net/tolkien-and-GenAI/)
 
 # Content
 
